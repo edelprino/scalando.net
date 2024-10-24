@@ -1,0 +1,34 @@
+---
+---
+
+.post{
+  flex-basis: 32%;
+}
+
+@media screen and (max-width: 768px) {
+  .post{
+    flex-basis: 49%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .post{
+    flex-basis: 100%;
+  }
+}
+
+.content table {
+  overflow-x: auto;
+  display: block;
+  width: 100%;
+}
+
+.content {
+  line-height: 1.75;
+}
+
+.MathJax {
+  display: block;
+  overflow-x: auto;
+  width: 100%;
+}

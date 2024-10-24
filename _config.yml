@@ -1,0 +1,18 @@
+title: Climbing Land Magazine
+author: "Ettore Delprino"
+email: edelprino@gmail.com
+description: Le ultime news dal mondo dell'arrampicata
+# description: >- # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://magazine.climbing.land" # the base hostname & protocol for your site
+
+permalink: /:title
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+

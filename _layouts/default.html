@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | smartify}}">
+    <meta name="author" content="{{ site.author.name }}">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    <meta name="image" content="{{ page.image | absolute_url }}">
+    <meta name="og:image" content="{{ page.image | absolute_url }}">
+    <meta name="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | smartify}}">
+    <meta name="og:title" content="{{ page.title | smartify }} | {{ site.title }}">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+    </script>
+  </head>
+  <body>
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="{{ "/" | absolute_url }}">
+        <h5 class="title is-5">{{ site.title }}</h5>
+      </a>
+  <!--     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="menu"> -->
+  <!--       <span aria-hidden="true"></span> -->
+  <!--       <span aria-hidden="true"></span> -->
+  <!--       <span aria-hidden="true"></span> -->
+  <!--     </a> -->
+    </div>
+    <div id="menu" class="navbar-menu">
+        <div class="navbar-start">
+          <!-- <a class="navbar-item" href="{{ "/progetti" | absolute_url }}">Progetti</a> -->
+          <!-- <a class="navbar-item" href="{{ "/nerd" | absolute_url }}">Nerd</a> -->
+        </div>
+    </div>
+    </nav>
+
+{{ content }}
+ <footer class="footer">
+   <div class="content has-text-centered">
+     <p>
+        <!-- <a href="https://twitter.com/edelprino" target="_blank" class="mr-4"><i class="fab fa-twitter fa-2x"></i></a> -->
+        <a href="https://www.instagram.com/climbing.land" target="_blank" class="mr-4"><i class="fab fa-instagram fa-2x"></i></a>
+        <!-- <a href="https://www.facebook.com/edelprino" target="_blank" class="mr-4"><i class="fab fa-facebook fa-2x"></i></a> -->
+        <!-- <a href="https://www.linkedin.com/in/edelprino" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a> -->
+      </p>
+     <!-- <p><strong>edelprino.com</strong> è stato creato da <a target="_blank" href="http://edelprino.com">Ettore Delprino</a></p> -->
+     <p>Coyright © {{ site.time | date: '%Y' }} Ettore Delprino</p>
+   </div>
+ </footer>
+  <script>
+document.addEventListener('DOMContentLoaded', () => {
+
+  // Get all "navbar-burger" elements
+  const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+  // Add a click event on each of them
+  $navbarBurgers.forEach( el => {
+    el.addEventListener('click', () => {
+
+      // Get the target from the "data-target" attribute
+      const target = el.dataset.target;
+      const $target = document.getElementById(target);
+
+      // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+      el.classList.toggle('is-active');
+      $target.classList.toggle('is-active');
+
+    });
+  });
+
+});
+    </script>
+<script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
+  </body>
+</html>

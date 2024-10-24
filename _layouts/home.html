@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<section class="hero" style="">
+<!-- <div class="hero-body"> -->
+<!-- <p class="has-text-centered is-italic is-size-4">Ciao! Sono Ettore, le mie due grandi passioni sono la programmazione e il free climbing.</p> -->
+<!-- <p class="has-text-centered is-italic is-size-4">Ho unito quello che mi piaceva di più e ho creato due guide di falesie online ZenaClimbing e Climbing Land</p> -->
+<!-- </div> -->
+<div class="container">
+<section class="hero">
+  <div class="hero-body has-text-centered">
+    <h1 class="title">{{site.title}}</h1>
+    <p class="subtitle">{{site.description}}</p>
+  </div>
+</section>
+<section class="section is-flex is-flex-wrap-wrap is-justify-content-space-between">
+  {% for post in site.posts %}
+  {% if post.redirect_to %}
+    {% continue %}
+  {% endif %}
+  <div class="card post mb-5" style="background-image: url({{ post.image | relative_url }}); background-size: cover; background-position: center;">
+    <a href="{{ post.url | relative_url }}">
+      <div style="background-image: linear-gradient(rgba(0,0,0,0.0), rgba(0,0,0,0.5)); height: 100%; border-radius:.25rem">
+        <div class="card-image">
+          <figure class="image is-2by1"></figure>
+        </div>
+        <div class="card-content">
+          <h3 class="title is-4 has-text-white">{{ post.title }}</h3>
+          <p class="subtitle is-6 has-text-white">{{ post.date | date: "%B %-d, %Y" }}</p>
+        </div>
+      </div>
+    </a>
+  </div>
+  {% endfor %}
+</section>
+</div>
