@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Yosemite Triple Crown: Tanner Wanish e Michael Vaill infrangono il record di velocità di Alex Honnold
-image: /assets/images/2024-10-25-yosemite-triple-crown-record.jpeg
+title: "Yosemite Triple Crown: Tanner Wanish e Michael Vaill infrangono il record di velocità di Alex Honnold"
+image: /assets/images/2024-10-23-yosemite-triple-crown-record.jpeg
 excerpt: Tanner Wanish e Michael Vaill hanno infranto il record di velocità di Alex Honnold sulla Yosemite Triple Crown, completando il percorso in 17 ore e 55 minuti.
 ---
 Tanner Wanish e Michael Vaill hanno stabilito un nuovo record sulla traversata chiamata Triple Crown, in Yosemite, migliorando il tempo di Alex Honnold. La Triple Crown, completata per la prima volta da Timmy O’Neill e Dean Potter nel 2001, consiste nel concatenamento di El Capitan, Half Dome e Mount Watkins. Finora, il miglior tempo per questa traversata era stato stabilito da Alex Honnold nel 2012, che aveva scalato in solitaria The Nose su El Capitan, la parete nord-ovest dell’Half Dome e la parete sud del Mount Watkins in 19 ore. Wanish e Vaill hanno concluso il percorso in 17 ore e 55 minuti.
