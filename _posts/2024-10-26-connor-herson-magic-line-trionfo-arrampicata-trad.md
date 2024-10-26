@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Connor Herson e la Leggendaria 'Magic Line': Un Trionfo nell'Arrampicata Trad
+title: "Connor Herson e la Leggendaria 'Magic Line': Un Trionfo nell'Arrampicata Trad"
 image: /assets/images/2024-10-26-connor-herson-magic-line-trionfo-arrampicata-trad.webp
 excerpt: Connor Herson, giovane climber americano, ha ripetuto la leggendaria 'Magic Line' (8c+) a Yosemite, consolidando la sua reputazione nell'arrampicata tradizionale.
 ---
