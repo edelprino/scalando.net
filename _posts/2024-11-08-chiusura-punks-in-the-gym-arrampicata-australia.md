@@ -1,0 +1,15 @@
+---
+layout: post
+title: "La Chiusura di 'Punks in the Gym' e Altre Aree di Arrampicata in Australia: Un Colpo alla Comunità di Arrampicata"
+image: /assets/images/2024-11-08-chiusura-punks-in-the-gym-arrampicata-australia.jpeg
+excerpt: La chiusura di "Punks in the Gym" e altre aree di arrampicata in Australia ha scosso la comunità globale, sollevando preoccupazioni su conservazione e cultura.
+---
+La recente decisione di chiudere importanti aree di arrampicata in Australia, tra cui la celebre via "Punks in the Gym", ha scosso la comunità di arrampicata globale. Questa via, situata a Mt. Arapiles, è stata la prima 5.14a al mondo, scalata per la prima volta dal leggendario Wolfgang Güllich nel 1985. La chiusura di questa e di altre aree rappresenta un duro colpo per gli appassionati di arrampicata, non solo per il valore storico e tecnico delle vie, ma anche per l'impatto culturale e ambientale che queste decisioni comportano.
+
+Secondo quanto riportato da Climbing.com, la chiusura è parte di un piano di gestione del territorio da parte di Parks Victoria e del governo del Victoria, volto a proteggere i valori culturali della zona. Il piano sottolinea l'importanza di preservare il Dyurrite Cultural Landscape, un'area ricca di patrimonio culturale con artefatti e arte rupestre risalenti a oltre 3.000 anni fa. Tuttavia, molti membri della comunità di arrampicata australiana ritengono che le chiusure siano eccessive e non giustificate, soprattutto considerando la storica collaborazione tra i climbers e le autorità locali per la protezione dell'ambiente e dei siti culturali.
+
+La chiusura di "Punks in the Gym" e di altre aree come The Pharos, Yesterday Gully, e Mitre Rock, coinvolge quasi 1.000 vie di arrampicata, riducendo drasticamente le opportunità per gli arrampicatori di tutto il mondo di sperimentare queste sfide uniche. Nonostante alcune aree rimangano aperte, la portata delle chiusure ha sollevato preoccupazioni tra gli arrampicatori, che temono che queste decisioni possano essere parte di un'agenda più ampia volta a promuovere il turismo a scapito dell'arrampicata.
+
+Simon Carter, un noto fotografo e autore di guide di arrampicata, ha espresso il suo disappunto, affermando che le chiusure sembrano essere una forma di gaslighting nei confronti della comunità di arrampicata. Carter ha sottolineato che, sebbene non ci sia opposizione a restrizioni ragionevoli, la distruzione di una cultura per preservarne un'altra è inaccettabile.
+
+La comunità di arrampicata ha ora 28 giorni per rispondere al piano di gestione del territorio, e molti sperano che le loro voci possano influenzare le decisioni future. La chiusura di "Punks in the Gym" non è solo una perdita per gli arrampicatori, ma rappresenta anche un momento critico per la comunità globale, che deve affrontare la sfida di bilanciare la conservazione culturale e ambientale con la passione per l'arrampicata.
