@@ -16,4 +16,4 @@ La capacità di Laura di affrontare e superare vie di tale difficoltà in tempi 
 
 Qui il video di Adam Ondra su Bomba e Bombardino:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ioAg56vEJsc?si=SBDO9w7Rl4d_0_MD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" style="aspect-ratio: 16/9" src="https://www.youtube.com/embed/ioAg56vEJsc?si=SBDO9w7Rl4d_0_MD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

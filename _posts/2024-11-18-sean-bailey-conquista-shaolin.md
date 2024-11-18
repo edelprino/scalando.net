@@ -15,5 +15,4 @@ La proposta di grado di 9A per Shaolin lo colloca tra i boulder più difficili a
 Il video della salita, pubblicato sul canale YouTube Mellow, offre uno sguardo ravvicinato al processo di Bailey, mostrando la sua dedizione e il suo approccio metodico alla risoluzione di questo complesso problema. La sua impresa non solo ispira la comunità dell'arrampicata, ma alza anche l'asticella per ciò che è possibile nel bouldering.
 
 In conclusione, la liberazione di Shaolin da parte di Sean Bailey non è solo una vittoria personale, ma un contributo significativo al mondo dell'arrampicata, spingendo i limiti del possibile e ispirando una nuova generazione di arrampicatori a sognare in grande.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_9mPC5drdAM?si=tst17RO7hYrHJg67" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" style="aspect-ratio: 16/9" src="https://www.youtube.com/embed/_9mPC5drdAM?si=tst17RO7hYrHJg67" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
