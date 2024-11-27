@@ -9,7 +9,10 @@ layout: default
 <div class="container">
 <section class="hero">
   <div class="hero-body has-text-centered">
-    <h1 class="title">{{site.title}}</h1>
+    <figure class="image is-128x128 is-inline-block">
+      <img src="/assets/logo_no_bg_no_name.png" alt="{{site.title}}">
+    </figure>
+    <h1 class="title">{{site.title | upcase}}</h1>
     <p class="subtitle">{{site.description}}</p>
   </div>
 </section>
