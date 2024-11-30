@@ -16,28 +16,21 @@ layout: default
         {{ content }}
       </div>
 
-
-      <h2 class="title is-2">Notizie recenti</h2>
+      <h2 class="title is-3 has-text-centered mt-6">Ultime notizie</h2>
       <div class="columns">
         {% assign posts = site.posts | where: "layout", "post" | where_exp: "post", "post.url != page.url" %}
         {% for post in posts | limit: 3 %}
+
         <div class="column is-4">
-          <a href="{{ post.url | relative_url }}">
-          <div class="card">
-            <div class="card-image">
-              <figure class="image is-4by3">
-                <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
-              </figure>
-              <div class="card-content">
-                <div class="media">
-                  <div class="media-content">
-                    <p class="title is-4">{{ post.title }}</p>
-                  </div>
+          <div class="card post mb-5" style="background-image: url({{ post.image | relative_url }}); background-size: cover; background-position: center; height: 100%">
+            <a href="{{ post.url | relative_url }}">
+              <div style="background-image: linear-gradient(rgba(0,0,0,0.0), rgba(0,0,0,0.5)); height: 100%; border-radius:.25rem">
+                <div class="card-content" style="padding-top: 8rem;">
+                  <h3 class="title is-6 has-text-white">{{ post.title }}</h3>
                 </div>
               </div>
-            </div>
+            </a>
           </div>
-          </a>
         </div>
         {% endfor %}
         </div>
