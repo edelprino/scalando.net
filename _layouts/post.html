@@ -15,7 +15,38 @@ layout: default
       <div class="content has-text-justified">
         {{ content }}
       </div>
+
+
+      <h2 class="title is-2">Notizie recenti</h2>
+      <div class="columns">
+        {% assign posts = site.posts | where: "layout", "post" | where_exp: "post", "post.url != page.url" %}
+        {% for post in posts | limit: 3 %}
+        <div class="column is-4">
+          <a href="{{ post.url | relative_url }}">
+          <div class="card">
+            <div class="card-image">
+              <figure class="image is-4by3">
+                <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+              </figure>
+              <div class="card-content">
+                <div class="media">
+                  <div class="media-content">
+                    <p class="title is-4">{{ post.title }}</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          </a>
+        </div>
+        {% endfor %}
+        </div>
+      </div>
+
+
     </div>
   </div>
+
+
 </section>
 </div>
