@@ -3,12 +3,14 @@ layout: default
 ---
 <div class="container">
 <section class="section">
-  <p class="subtitle is-5 has-text-centered">{{ page.date | date: "%-d %B %Y" }}</p>
-  <h1 class="title is-1 has-text-centered">{{page.title}}</h1>
-  <p class="subtitle is-5 has-text-centered has-text-grey">{{ page.excerpt }}</p>
 
   <div class="columns">
     <div class="column is-8 is-offset-2">
+
+  <p class="subtitle is-6">{{ page.date | date: "%-d %B %Y" }}</p>
+  <h1 class="title is-2 has-text-weight-light">{{page.title}}</h1>
+  <p class="subtitle is-5 has-text-grey">{{ page.excerpt }}</p>
+
       <figure class="image block">
         <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
       </figure>
@@ -20,7 +22,6 @@ layout: default
       <div class="columns">
         {% assign posts = site.posts | where: "layout", "post" | where_exp: "post", "post.url != page.url" %}
         {% for post in posts | limit: 3 %}
-
         <div class="column is-4">
           <div class="card post mb-5" style="background-image: url({{ post.image | relative_url }}); background-size: cover; background-position: center; height: 100%">
             <a href="{{ post.url | relative_url }}">
