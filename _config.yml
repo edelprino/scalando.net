@@ -6,10 +6,15 @@ description: Le ultime news dal mondo dell'arrampicata
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scalando.net" # the base hostname & protocol for your site
 
+
 permalink: /:year/:title/
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+paginate: 12
+paginate_path: "/page/:num/"
 
 # Exclude from processing.
 exclude:
