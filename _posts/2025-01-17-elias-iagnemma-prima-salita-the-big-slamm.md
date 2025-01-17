@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Elias Iagnemma e la Prima Salita di 'The Big Slamm': Un Traguardo Epocale per il Bouldering Italiano"
+image: /assets/images/2025-01-17-elias-iagnemma-prima-salita-the-big-slamm.jpeg
+excerpt: Elias Iagnemma ha compiuto un'impresa straordinaria nel bouldering italiano con la prima salita di "The Big Slamm", il primo boulder di grado 9A in Italia.
+---
+Nel mondo dell'arrampicata, il nome di Elias Iagnemma risuona con forza e determinazione. L'atleta abruzzese ha recentemente compiuto un'impresa straordinaria, segnando un nuovo capitolo nella storia del bouldering italiano: la prima salita di "The Big Slamm", il primo boulder di grado 9A in Italia. Questa realizzazione non solo rappresenta un traguardo personale per Iagnemma, ma anche un momento di svolta per l'intera comunità dell'arrampicata.
+
+"The Big Slamm" si trova in una località imprecisata del sud Italia, probabilmente nelle vicinanze di Tintorale, un'area già nota per le sue sfide boulderistiche. La linea, descritta da Iagnemma come una "King Line", è caratterizzata da una sequenza di movimenti estremamente tecnici e fisicamente impegnativi. Il boulder è suddiviso in tre sezioni principali: un primo movimento di grado 8A, seguito da un altro 8A, e un finale con una partenza in piedi di 8B/+. Questa combinazione di difficoltà ha richiesto a Iagnemma ben 35 sessioni di lavoro distribuite su un anno e mezzo, un impegno che ha messo alla prova la sua resistenza fisica e mentale.
+
+Iagnemma non è nuovo a imprese di questo calibro. Nel marzo del 2024, ha completato la quarta salita di "Burden of Dreams", un altro boulder di grado 9A situato in Finlandia, originariamente liberato da Nalle Hukkataival. Questa esperienza ha fornito a Iagnemma la fiducia e la determinazione necessarie per affrontare "The Big Slamm", nonostante le condizioni ambientali avverse, caratterizzate da un alto tasso di umidità che rendeva la scalata ancora più impegnativa.
+
+L'annuncio della sua impresa è stato accolto con entusiasmo dalla comunità dell'arrampicata, e Iagnemma ha espresso il desiderio che altri top climber si avventurino nel sud Italia per tentare questa sfida. "Sono davvero contento di questa mia scalata e di poterla condividere con tutta la comunità di arrampicata", ha dichiarato Iagnemma, sottolineando l'importanza di questo traguardo non solo per lui, ma per l'intero panorama del bouldering.
+
+Con "The Big Slamm", l'Italia si aggiunge alla lista delle nazioni che ospitano boulder di grado 9A, un livello di difficoltà che solo pochi atleti al mondo sono in grado di affrontare. Questa impresa non solo eleva il profilo di Iagnemma come uno dei più forti boulderisti italiani, ma stimola anche l'interesse e l'attenzione verso le potenzialità delle aree boulderistiche italiane.
+
+Guardando al futuro, la salita di "The Big Slamm" potrebbe rappresentare un catalizzatore per lo sviluppo di nuove linee e per l'incremento del turismo arrampicatorio nel sud Italia. Con l'aumento dell'interesse internazionale, queste aree potrebbero diventare nuovi punti di riferimento per gli appassionati di bouldering di tutto il mondo, contribuendo così a una crescita economica e culturale delle regioni coinvolte.
