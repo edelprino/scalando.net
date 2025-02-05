@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Will Bosi e la Prima Ripetizione di 'Excalibur' (9b+) ad Arco: Un Trionfo di Forza e Determinazione"
+image: /assets/images/2025-02-05-will-bosi-prima-ripetizione-excalibur-arco.jpeg
+excerpt: Will Bosi ha realizzato la prima ripetizione di 'Excalibur', una delle vie di arrampicata più difficili al mondo, ad Arco. Scopri di più su questa straordinaria impresa.
+---
+Il mondo dell'arrampicata è stato recentemente scosso dalla notizia della prima ripetizione di 'Excalibur', una delle vie più difficili al mondo, da parte del climber scozzese Will Bosi. Situata a Drena, vicino ad Arco, 'Excalibur' è stata originariamente liberata da Stefano Ghisolfi il 3 febbraio 2023, e da allora ha rappresentato una sfida formidabile per i migliori arrampicatori del pianeta.
+
+La via, chiodata da Cristian Dorigatti e Morris Fontanari, si distingue per il suo carattere unico: un pannello inclinato a 40 gradi che richiede una combinazione di potenza e precisione senza precedenti. A differenza di molte altre vie di difficoltà simile, 'Excalibur' è breve ma estremamente intensa, con appigli minuscoli che mettono a dura prova anche i più esperti. Tra i climber che hanno tentato la via, figurano nomi illustri come Adam Ondra, Jakob Schubert e Shawn Raboutou, ma nessuno era riuscito a ripeterla fino all'impresa di Bosi.
+
+Will Bosi ha iniziato a lavorare su 'Excalibur' alla fine del 2022, dedicandole un totale di 21 sessioni. Tuttavia, solo dieci di queste sono state realmente produttive, a causa delle condizioni climatiche avverse che spesso limitano i tentativi. La sua determinazione e la capacità di adattarsi alle sfide ambientali sono state fondamentali per il successo finale. "Le condizioni fanno una grande differenza con questa via", ha spiegato Bosi, sottolineando l'importanza di trovare il giusto equilibrio tra temperatura e umidità per riuscire a completare la salita.
+
+La ripetizione di 'Excalibur' rappresenta un ritorno all'arrampicata con la corda per Bosi, dopo una serie di successi straordinari nel boulder, dove ha chiuso ben quattro blocchi di 9A, più di qualsiasi altro climber al mondo. La sua impresa ad Arco non solo conferma la sua versatilità come arrampicatore, ma lo colloca anche tra i pochi al mondo ad aver scalato sia vie di grado 9b+ che boulder di grado 9A.
+
+L'impatto di questa salita va oltre il semplice record personale. Essa sottolinea l'importanza della collaborazione e del supporto tra climber, come dimostrato dalla sinergia tra Bosi e Jana Švecova durante i tentativi sulla via. Inoltre, mette in luce la crescente rilevanza di Arco come epicentro dell'arrampicata sportiva mondiale, attirando atleti di calibro internazionale e contribuendo all'economia locale attraverso il turismo sportivo.
+
+Guardando al futuro, la ripetizione di 'Excalibur' da parte di Bosi potrebbe ispirare una nuova generazione di arrampicatori a spingersi oltre i propri limiti, esplorando vie sempre più difficili e innovative. Con la continua evoluzione delle tecniche e delle attrezzature, il mondo dell'arrampicata è destinato a vedere nuove imprese straordinarie, e Will Bosi ha appena scritto un capitolo importante di questa storia in continua crescita.
