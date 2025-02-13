@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ page.title }} | {{ site.title }}</title>
+    <title>{{ page.title | default: site.description }} | {{ site.title }}</title>
     <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | smartify}}">
     <meta name="author" content="{{ site.author.name }}">
     <meta name="ahrefs-site-verification" content="797fbcfa4b042ea38538adf6ca8c2af8aa2fd1e37a1dbdb3c8ba46e8b0f8d680">

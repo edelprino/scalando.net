@@ -1,7 +1,7 @@
 title: Scalando
 author: "Ettore Delprino"
 email: edelprino@gmail.com
-description: Le ultime news dal mondo dell'arrampicata
+description: AI Climbing Magazine
 # description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scalando.net" # the base hostname & protocol for your site
